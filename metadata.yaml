@@ -1,0 +1,30 @@
+_repo: The-Coming-of-Cuculain_5092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Grady, Standish
+    aliases:
+    - Netterville, Luke
+    - Clive, Arthur
+    birthdate: 1846
+    deathdate: 1928
+    gutenberg_agent_id: '1696'
+    url: http://www.gutenberg.org/2009/agents/1696
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PB'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Cuchulain (Legendary character) -- Fiction'
+- !lcsh 'Mythology, Celtic -- Ireland'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: The Coming of Cuculain
+url: http://www.gutenberg.org/ebooks/5092
